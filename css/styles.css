@@ -129,7 +129,7 @@ h2 {
 /* portada */
 
 .portada {
-    background-image: url(/imagenes/cafe-portada.jpg);
+    background-image: url(../imagenes/cafe-portada.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
